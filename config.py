@@ -8,7 +8,7 @@ API_HASH = os.environ.get("API_HASH", "e935d9b56e3fd2c05c743093efb761c9")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "5951942864:AAEkz1eguzBw0F1Bl6ZdY34Dak5DgfekEnk") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "-1001659284209") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "0") 
 
 DB_NAME = os.environ.get("DB_NAME","Aman")     
 
