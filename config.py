@@ -10,9 +10,9 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "5951942864:AAEkz1eguzBw0F1Bl6ZdY34Dak5D
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "0") 
 
-DB_NAME = os.environ.get("DB_NAME","Aman")     
+DB_NAME = os.environ.get("DB_NAME","Cluster0")     
 
-DB_URL = os.environ.get("DB_URL","mongodb+srv://Aman:<Aman>@cluster0.md9wv.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://Aman:<Aman>@cluster0.zugrjwj.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
